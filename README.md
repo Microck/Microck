@@ -1,8 +1,8 @@
 ![fuckthis3](https://github.com/user-attachments/assets/4123eefc-7cee-4cbe-a33f-f4d4f863cb7c)
 
-<a href="[https://Microck.pythonanywhere.com/link](https://Microck.pythonanywhere.com?theme=dark&eq_color=171225)">
+<a href="https://Microck.pythonanywhere.com/link">
   <img
-    src="https://Microck.pythonanywhere.com"
+    src="https://Microck.pythonanywhere.com?theme=dark&scan=true&eq_color=rainbow"
     alt="Current Spotify Song"
   />
 </a>
