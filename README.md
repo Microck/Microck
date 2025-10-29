@@ -7,11 +7,11 @@
   <picture>
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://Microck.pythonanywhere.com?theme=light&eq_color=B19AEF"
+      srcset="https://Microck.pythonanywhere.com?theme=light&eq_color=B19AEF&spin=true"
     />
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://Microck.pythonanywhere.com?theme=dark&eq_color=B19AEF"
+      srcset="https://Microck.pythonanywhere.com?theme=dark&eq_color=B19AEF&spin=true"
     />
     <img alt="Current Spotify Song">
   </picture>
