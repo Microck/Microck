@@ -1,4 +1,5 @@
-![fuckthis3](https://github.com/user-attachments/assets/4123eefc-7cee-4cbe-a33f-f4d4f863cb7c)
+![fuckthis4](https://github.com/user-attachments/assets/4b44acfc-7525-4dad-9734-8468acb9fb3e)
+
 
 <div align="center">
 <a href="https://github.com/Microck/Spotify-Readme">
