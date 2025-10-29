@@ -5,11 +5,11 @@
   <picture>
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://Microck.pythonanywhere.com?theme=light&eq_color=171225"
+      srcset="https://Microck.pythonanywhere.com?theme=light&eq_color=B19AEF"
     />
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://Microck.pythonanywhere.com?theme=dark&eq_color=171225"
+      srcset="https://Microck.pythonanywhere.com?theme=dark&eq_color=B19AEF"
     />
     <img alt="Current Spotify Song">
   </picture>
