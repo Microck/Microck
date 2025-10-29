@@ -1,4 +1,5 @@
-![fuckthis4](https://github.com/user-attachments/assets/4b44acfc-7525-4dad-9734-8468acb9fb3e)
+<img width="1638" height="372" alt="hastaelnabo" src="https://github.com/user-attachments/assets/43811523-bc43-496b-8e76-59c0647de70a" />
+
 
 
 <div align="center">
