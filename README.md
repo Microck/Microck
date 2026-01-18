@@ -17,5 +17,3 @@
   </picture>
 </a>
 </div>
-
-<sub><b>note:</b> most or all code in my repositories is AI-generated. I am not a programmer and do not claim to be one, I just enjoy making tools for myself and others :)</sub>
