@@ -17,3 +17,15 @@
   </picture>
 </a>
 </div>
+
+<!-- Projects collage (auto-wraps based on screen width) -->
+<div align="center">
+  <!-- Put your thumbs in this repo, e.g. assets/thumbs/<repo>.png -->
+    <!-- <a href="https://github.com/Microck/repo1"><img src="assets/thumbs/repo1.png" width="50" height="75" alt="repo1" /></a>
+  <a href="https://github.com/Microck/repo2"><img src="assets/thumbs/repo2.png" width="50" height="75" alt="repo2" /></a>
+  <a href="https://github.com/Microck/repo3"><img src="assets/thumbs/repo3.png" width="50" height="75" alt="repo3" /></a>
+  <a href="https://github.com/Microck/repo4"><img src="assets/thumbs/repo4.png" width="50" height="75" alt="repo4" /></a>
+  <a href="https://github.com/Microck/repo5"><img src="assets/thumbs/repo5.png" width="50" height="75" alt="repo5" /></a>
+
+  <!-- ...repeat for each project... -->
+</div>
