@@ -19,9 +19,9 @@
 </div>
 
 <!-- Projects collage (auto-wraps based on screen width) -->
-<div align="center">
+<!-- <div align="center">
   <!-- Thumbs live in this repo under assets/thumbgs2/ -->
-  <a href="https://github.com/Microck/anonQ"><img src="assets/thumbgs2/anonq.jpg" width="50" height="75" alt="anonQ" /></a>
+ <!--  <a href="https://github.com/Microck/anonQ"><img src="assets/thumbgs2/anonq.jpg" width="50" height="75" alt="anonQ" /></a>
   <a href="https://github.com/Microck/ascii.micr"><img src="assets/thumbgs2/ascii.micr.jpg" width="50" height="75" alt="ascii.micr" /></a>
   <a href="https://github.com/Microck/Celeste-QuarziteSkin"><img src="assets/thumbgs2/quarziteskinmod.jpg" width="50" height="75" alt="Celeste-QuarziteSkin" /></a>
   <a href="https://github.com/Microck/chalcopyrite"><img src="assets/thumbgs2/chalcopryte.jpg" width="50" height="75" alt="chalcopyrite" /></a>
@@ -44,4 +44,4 @@
   <a href="https://github.com/Microck/vapora"><img src="assets/thumbgs2/vapora.jpg" width="50" height="75" alt="vapora" /></a>
   <a href="https://github.com/Microck/waterWAV"><img src="assets/thumbgs2/waterwav.jpg" width="50" height="75" alt="waterWAV" /></a>
   <a href="https://github.com/Microck/YAWN60"><img src="assets/thumbgs2/yawn60.jpg" width="50" height="75" alt="YAWN60" /></a>
-</div>
+</div> -->
