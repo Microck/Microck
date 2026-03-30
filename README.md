@@ -1,22 +1,26 @@
-<img width="1638" height="372" alt="hastaelnabo" src="https://github.com/user-attachments/assets/43811523-bc43-496b-8e76-59c0647de70a" />
+<!-- P <img width="1638" height="372" alt="hastaelnabo" src="https://github.com/user-attachments/assets/43811523-bc43-496b-8e76-59c0647de70a" />  -->
 
 
 
-<div align="center">
-<a href="https://Microck.pythonanywhere.com/link">
-  <picture>
-    <source
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://Microck.pythonanywhere.com?theme=light&eq_color=B19AEF&spin=true"
-    />
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://Microck.pythonanywhere.com?theme=dark&eq_color=B19AEF&spin=true"
-    />
-    <img alt="Current Spotify Song">
-  </picture>
-</a>
-</div>
+ <div align="center">
+    <a href="https://Microck.pythonanywhere.com/link">
+      <picture>
+        <source
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          srcset="https://Microck.pythonanywhere.com?theme=light&eq_color=B19AEF"
+        />
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://Microck.pythonanywhere.com?theme=dark&eq_color=B19AEF"
+        />
+        <img
+          alt="Current Spotify Song"
+          src="https://Microck.pythonanywhere.com?theme=light&eq_color=B19AEF"
+          width="100%"
+        />
+      </picture>
+    </a>
+  </div>
 
 <!-- Projects collage (auto-wraps based on screen width) -->
 <!-- <div align="center">
