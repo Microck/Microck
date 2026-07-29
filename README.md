@@ -24,7 +24,7 @@
 
 ---
 
-hire me contact@micr.dev | [projects.micr.dev](https://projects.micr.dev/)
+if the tool forces the user to do things a particular way, then the tool is working against, rather than for, the user | [projects.micr.dev](https://projects.micr.dev/)
 <!-- Projects collage (auto-wraps based on screen width) -->
 <!-- <div align="center">
   <!-- Thumbs live in this repo under assets/thumbgs2/ -->
