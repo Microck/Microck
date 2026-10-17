@@ -3,19 +3,19 @@
 
 
  <div align="center">
-    <a href="https://Microck.pythonanywhere.com/link">
+    <a href="https://spotifybadge.micr.dev/link">
       <picture>
         <source
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          srcset="https://Microck.pythonanywhere.com?theme=light&eq_color=B19AEF"
+          srcset="https://spotifybadge.micr.dev?theme=light&eq_color=B19AEF"
         />
         <source
           media="(prefers-color-scheme: dark)"
-          srcset="https://Microck.pythonanywhere.com?theme=dark&eq_color=B19AEF"
+          srcset="https://spotifybadge.micr.dev?theme=dark&eq_color=B19AEF"
         />
         <img
           alt="Current Spotify Song"
-          src="https://Microck.pythonanywhere.com?theme=light&eq_color=B19AEF"
+          src="https://spotifybadge.micr.dev?theme=light&eq_color=B19AEF"
           width="100%"
         />
       </picture>
