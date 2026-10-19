@@ -6,10 +6,14 @@ The workflow updates release downloads and total stars daily at 08:47 UTC and su
 
 ## Appearance
 
-All three profile badges use `scripts/badge-style.mjs`. It matches the Spotify
-widget's dark `#161B22` surface, 5px corners, system sans-serif font, white text,
-and `#B19AEF` lavender accent. Each badge is 34px tall with 12px side padding.
-The badges have no animation. Changing this renderer updates both daily jobs.
+All three profile badges use `scripts/badge-style.mjs`. Each daily job writes a
+dark `.svg` and a `-light.svg` variant. The README uses the same `<picture>` and
+`prefers-color-scheme` selection for the badges and Spotify widget.
+
+Dark mode uses a `#161B22` surface, white text, and `#B19AEF` lavender counts.
+Light mode uses the widget's `#F6F8FA` surface, black text, and darker `#7253A5`
+purple counts for contrast. Both use 5px corners, a system sans-serif font,
+34px height, and 12px side padding. The badges have no animation.
 
 ## Total stars
 
@@ -36,7 +40,7 @@ error and rerun the workflow; the existing badge remains in place meanwhile.
 `assets/github-downloads.json` records each repository's included and excluded
 downloads, the total, and the date checked. `assets/github-downloads.svg` displays
 the total beside the npm badge. The workflow commits only these generated files
-and the stars badge.
+and both theme variants of each badge.
 These are download events, not distinct users, and may overlap other platforms.
 
 Source: [GitHub release asset API](https://docs.github.com/en/rest/releases/assets).

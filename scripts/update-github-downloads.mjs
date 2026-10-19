@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import { execFileSync } from 'node:child_process';
 import { mkdir, writeFile } from 'node:fs/promises';
-import { renderBadge } from './badge-style.mjs';
+import { writeBadges } from './badge-style.mjs';
 
 const username = 'Microck';
 const assetsDirectory = new URL('../assets/', import.meta.url);
@@ -48,8 +48,6 @@ const total = repositories.reduce((sum, repository) => sum + repository.download
 assert(Number.isSafeInteger(total), 'Total exceeds the safe integer range');
 const checkedOn = new Date().toISOString().slice(0, 10);
 const label = `GitHub release downloads: ${total.toLocaleString('en-US')}`;
-const svg = renderBadge('GitHub release downloads', total,
-  `${label} across ${repositories.length} repositories, checked ${checkedOn}`);
 const starsLabel = `GitHub stars: ${stars.toLocaleString('en-US')}`;
 
 // Preserve the published badge unless every eligible repository was counted.
@@ -57,8 +55,9 @@ await mkdir(assetsDirectory, { recursive: true });
 await writeFile(new URL('github-downloads.json', assetsDirectory), `${JSON.stringify({
   username, checkedOn, total, stars, disabledRepositories, repositories,
 }, null, 2)}\n`);
-await writeFile(new URL('github-downloads.svg', assetsDirectory), svg);
-await writeFile(new URL('github-stars.svg', assetsDirectory), renderBadge('GitHub stars', stars,
-  `${starsLabel} across ${publicRepositories.length} public non-fork repositories, checked ${checkedOn}`));
+await writeBadges(assetsDirectory, 'github-downloads', 'GitHub release downloads', total,
+  `${label} across ${repositories.length} repositories, checked ${checkedOn}`);
+await writeBadges(assetsDirectory, 'github-stars', 'GitHub stars', stars,
+  `${starsLabel} across ${publicRepositories.length} public non-fork repositories, checked ${checkedOn}`);
 console.log(`${label} (${repositories.length} repositories)`);
 console.log(starsLabel);

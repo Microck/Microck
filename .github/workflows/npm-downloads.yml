@@ -27,7 +27,7 @@ jobs:
         run: |
           git config user.name 'Microck'
           git config user.email 'contact@micr.dev'
-          git add assets/npm-downloads.svg assets/npm-downloads.json
+          git add assets/npm-downloads.svg assets/npm-downloads-light.svg assets/npm-downloads.json
           if ! git diff --cached --quiet; then
             git commit -m 'update npm download badge'
             git push

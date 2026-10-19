@@ -19,7 +19,8 @@ the workflow to recover.
 
 `assets/npm-downloads.json` records the cutoff date and individual counts.
 `assets/npm-downloads.svg` displays their exact sum in the profile README.
-The workflow commits only these two generated files when they change.
+The workflow commits the JSON report and the dark `.svg` and `-light.svg` badges
+when they change.
 The [shared badge renderer](github-downloads.md#appearance) keeps its appearance
 consistent with the GitHub badges and Spotify widget.
 

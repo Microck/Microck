@@ -6,10 +6,6 @@
     <a href="https://spotifybadge.micr.dev/link">
       <picture>
         <source
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          srcset="https://spotifybadge.micr.dev?theme=light&eq_color=B19AEF"
-        />
-        <source
           media="(prefers-color-scheme: dark)"
           srcset="https://spotifybadge.micr.dev?theme=dark&eq_color=B19AEF"
         />
@@ -27,9 +23,9 @@
 if the tool forces the user to do things a particular way, then the tool is working against, rather than for, the user | [projects.micr.dev](https://projects.micr.dev/)
 
 <p align="center">
-  <a href="https://www.npmjs.com/~microck"><img src="assets/npm-downloads.svg" alt="npm downloads" /></a>
-  <a href="docs/github-downloads.md"><img src="assets/github-downloads.svg" alt="GitHub release downloads" /></a>
-  <a href="docs/github-downloads.md#total-stars"><img src="assets/github-stars.svg" alt="GitHub stars" /></a>
+  <a href="https://www.npmjs.com/~microck"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/npm-downloads.svg" /><img src="assets/npm-downloads-light.svg" alt="npm downloads" /></picture></a>
+  <a href="docs/github-downloads.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/github-downloads.svg" /><img src="assets/github-downloads-light.svg" alt="GitHub release downloads" /></picture></a>
+  <a href="docs/github-downloads.md#total-stars"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/github-stars.svg" /><img src="assets/github-stars-light.svg" alt="GitHub stars" /></picture></a>
 </p>
 
 <!-- Projects collage (auto-wraps based on screen width) -->
