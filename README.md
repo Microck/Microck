@@ -26,9 +26,11 @@
 
 if the tool forces the user to do things a particular way, then the tool is working against, rather than for, the user | [projects.micr.dev](https://projects.micr.dev/)
 
-[![npm downloads](assets/npm-downloads.svg)](https://www.npmjs.com/~microck)
-[![GitHub release downloads](assets/github-downloads.svg)](docs/github-downloads.md)
-[![GitHub stars](assets/github-stars.svg)](docs/github-downloads.md#total-stars)
+<p align="center">
+  <a href="https://www.npmjs.com/~microck"><img src="assets/npm-downloads.svg" alt="npm downloads" /></a>
+  <a href="docs/github-downloads.md"><img src="assets/github-downloads.svg" alt="GitHub release downloads" /></a>
+  <a href="docs/github-downloads.md#total-stars"><img src="assets/github-stars.svg" alt="GitHub stars" /></a>
+</p>
 
 <!-- Projects collage (auto-wraps based on screen width) -->
 <!-- <div align="center">
