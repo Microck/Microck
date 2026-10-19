@@ -1,0 +1,195 @@
+{
+  "username": "Microck",
+  "checkedOn": "2026-10-19",
+  "total": 14981,
+  "disabledRepositories": [
+    "SecPlus-AI-Quizzer"
+  ],
+  "repositories": [
+    {
+      "name": "akron",
+      "downloads": 2744,
+      "excludedDownloads": 112
+    },
+    {
+      "name": "ambivalence",
+      "downloads": 55,
+      "excludedDownloads": 52
+    },
+    {
+      "name": "ancla",
+      "downloads": 2,
+      "excludedDownloads": 0
+    },
+    {
+      "name": "bettersaves",
+      "downloads": 4,
+      "excludedDownloads": 0
+    },
+    {
+      "name": "boilify",
+      "downloads": 937,
+      "excludedDownloads": 0
+    },
+    {
+      "name": "calendar-peek-extension",
+      "downloads": 5,
+      "excludedDownloads": 0
+    },
+    {
+      "name": "Celeste-QuarziteSkin",
+      "downloads": 8,
+      "excludedDownloads": 0
+    },
+    {
+      "name": "chudvault",
+      "downloads": 11,
+      "excludedDownloads": 0
+    },
+    {
+      "name": "galleton",
+      "downloads": 0,
+      "excludedDownloads": 0
+    },
+    {
+      "name": "gitquarry",
+      "downloads": 287,
+      "excludedDownloads": 24
+    },
+    {
+      "name": "kagi-cli",
+      "downloads": 6563,
+      "excludedDownloads": 191
+    },
+    {
+      "name": "keyflare-qmk-tool",
+      "downloads": 82,
+      "excludedDownloads": 0
+    },
+    {
+      "name": "kimi-k2-stealth-extension",
+      "downloads": 17,
+      "excludedDownloads": 0
+    },
+    {
+      "name": "md2pkt",
+      "downloads": 2,
+      "excludedDownloads": 0
+    },
+    {
+      "name": "mic-hotkey-remapper",
+      "downloads": 12,
+      "excludedDownloads": 1
+    },
+    {
+      "name": "MindLocker",
+      "downloads": 11,
+      "excludedDownloads": 0
+    },
+    {
+      "name": "moji",
+      "downloads": 226,
+      "excludedDownloads": 0
+    },
+    {
+      "name": "mullgate",
+      "downloads": 254,
+      "excludedDownloads": 25
+    },
+    {
+      "name": "old-f3",
+      "downloads": 2,
+      "excludedDownloads": 0
+    },
+    {
+      "name": "pangram-cli",
+      "downloads": 236,
+      "excludedDownloads": 57
+    },
+    {
+      "name": "protoncode",
+      "downloads": 49,
+      "excludedDownloads": 0
+    },
+    {
+      "name": "raft",
+      "downloads": 150,
+      "excludedDownloads": 36
+    },
+    {
+      "name": "ravenbin-cli",
+      "downloads": 1,
+      "excludedDownloads": 0
+    },
+    {
+      "name": "react-grab-anywhere-injector",
+      "downloads": 26,
+      "excludedDownloads": 0
+    },
+    {
+      "name": "remind-me-later",
+      "downloads": 17,
+      "excludedDownloads": 0
+    },
+    {
+      "name": "satelle",
+      "downloads": 2024,
+      "excludedDownloads": 733
+    },
+    {
+      "name": "semrush-cli",
+      "downloads": 25,
+      "excludedDownloads": 7
+    },
+    {
+      "name": "sincronizado",
+      "downloads": 8,
+      "excludedDownloads": 0
+    },
+    {
+      "name": "tailstick",
+      "downloads": 167,
+      "excludedDownloads": 0
+    },
+    {
+      "name": "tuneport",
+      "downloads": 172,
+      "excludedDownloads": 0
+    },
+    {
+      "name": "UndyingTerminal",
+      "downloads": 38,
+      "excludedDownloads": 0
+    },
+    {
+      "name": "vapora",
+      "downloads": 61,
+      "excludedDownloads": 10
+    },
+    {
+      "name": "veskforge",
+      "downloads": 320,
+      "excludedDownloads": 0
+    },
+    {
+      "name": "veyoff",
+      "downloads": 55,
+      "excludedDownloads": 0
+    },
+    {
+      "name": "vinted-cli",
+      "downloads": 96,
+      "excludedDownloads": 73
+    },
+    {
+      "name": "wallapop-cli",
+      "downloads": 304,
+      "excludedDownloads": 173
+    },
+    {
+      "name": "YAWN60",
+      "downloads": 10,
+      "excludedDownloads": 0
+    }
+  ]
+}
