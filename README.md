@@ -28,6 +28,8 @@ if the tool forces the user to do things a particular way, then the tool is work
 
 [![npm downloads](assets/npm-downloads.svg)](https://www.npmjs.com/~microck)
 [![GitHub release downloads](assets/github-downloads.svg)](docs/github-downloads.md)
+[![GitHub stars](assets/github-stars.svg)](docs/github-downloads.md#total-stars)
+[![profile views](https://komarev.com/ghpvc/?username=Microck&label=profile+views&color=000000&style=flat-square)](docs/github-downloads.md#profile-views)
 
 <!-- Projects collage (auto-wraps based on screen width) -->
 <!-- <div align="center">
