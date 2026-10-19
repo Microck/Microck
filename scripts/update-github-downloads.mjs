@@ -1,6 +1,7 @@
 import assert from 'node:assert/strict';
 import { execFileSync } from 'node:child_process';
 import { mkdir, writeFile } from 'node:fs/promises';
+import { renderBadge } from './badge-style.mjs';
 
 const username = 'Microck';
 const assetsDirectory = new URL('../assets/', import.meta.url);
@@ -13,16 +14,6 @@ function getPages(path) {
     '-H', 'User-Agent: OpenAI File Downloader, XaiImageApiFetch/1.0',
   ], { encoding: 'utf8', maxBuffer: 40 * 1024 * 1024 });
   return JSON.parse(json).flat();
-}
-
-function renderBadge(label, title) {
-  const width = label.length * 7 + 24;
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="24" role="img" aria-label="${label}">
-  <title>${title}</title>
-  <rect width="${width}" height="24" fill="#000"/>
-  <text x="12" y="16" fill="#fff" font-family="DejaVu Sans Mono,monospace" font-size="11">${label}</text>
-</svg>
-`;
 }
 
 const publicRepositories = getPages(`users/${username}/repos?per_page=100&type=owner`)
@@ -57,7 +48,8 @@ const total = repositories.reduce((sum, repository) => sum + repository.download
 assert(Number.isSafeInteger(total), 'Total exceeds the safe integer range');
 const checkedOn = new Date().toISOString().slice(0, 10);
 const label = `GitHub release downloads: ${total.toLocaleString('en-US')}`;
-const svg = renderBadge(label, `${label} across ${repositories.length} repositories, checked ${checkedOn}`);
+const svg = renderBadge('GitHub release downloads', total,
+  `${label} across ${repositories.length} repositories, checked ${checkedOn}`);
 const starsLabel = `GitHub stars: ${stars.toLocaleString('en-US')}`;
 
 // Preserve the published badge unless every eligible repository was counted.
@@ -66,7 +58,7 @@ await writeFile(new URL('github-downloads.json', assetsDirectory), `${JSON.strin
   username, checkedOn, total, stars, disabledRepositories, repositories,
 }, null, 2)}\n`);
 await writeFile(new URL('github-downloads.svg', assetsDirectory), svg);
-await writeFile(new URL('github-stars.svg', assetsDirectory), renderBadge(starsLabel,
+await writeFile(new URL('github-stars.svg', assetsDirectory), renderBadge('GitHub stars', stars,
   `${starsLabel} across ${publicRepositories.length} public non-fork repositories, checked ${checkedOn}`));
 console.log(`${label} (${repositories.length} repositories)`);
 console.log(starsLabel);

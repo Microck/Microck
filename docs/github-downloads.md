@@ -4,6 +4,13 @@ Run `node scripts/update-github-downloads.mjs` with Node 24 and the GitHub CLI
 installed. Authenticate `gh` locally; Actions uses its built-in `GH_TOKEN`.
 The workflow updates release downloads and total stars daily at 08:47 UTC and supports manual runs.
 
+## Appearance
+
+All three profile badges use `scripts/badge-style.mjs`. It matches the Spotify
+widget's dark `#161B22` surface, 5px corners, system sans-serif font, white text,
+and `#B19AEF` lavender accent. Each badge is 34px tall with 12px side padding.
+The badges have no animation. Changing this renderer updates both daily jobs.
+
 ## Total stars
 
 The stars badge sums current stars across all public non-fork repositories owned
@@ -33,11 +40,3 @@ and the stars badge.
 These are download events, not distinct users, and may overlap other platforms.
 
 Source: [GitHub release asset API](https://docs.github.com/en/rest/releases/assets).
-
-## Profile views
-
-The README embeds [Komarev's counter](https://github.com/antonkomarev/github-profile-views-counter)
-directly so profile loads reach the counter through GitHub's image proxy.
-This measures page hits, not unique people or a verified lifetime view total.
-The daily workflow does not fetch the counter. The badge depends on the external
-counter service and GitHub's image proxy caching.

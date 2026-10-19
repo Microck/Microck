@@ -1,6 +1,7 @@
 import assert from 'node:assert/strict';
 import { mkdir, writeFile } from 'node:fs/promises';
 import { setTimeout as sleep } from 'node:timers/promises';
+import { renderBadge } from './badge-style.mjs';
 
 const username = 'microck';
 const earliest = '2015-01-10';
@@ -75,13 +76,8 @@ for (const name of [...names].sort()) {
 const total = packages.reduce((sum, pkg) => sum + pkg.downloads, 0);
 assert(Number.isSafeInteger(total), 'Total exceeds the safe integer range');
 const label = `npm downloads: ${total.toLocaleString('en-US')}`;
-const width = label.length * 7 + 24;
-const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="24" role="img" aria-label="${label}">
-  <title>${label} across ${packages.length} packages, through ${through}</title>
-  <rect width="${width}" height="24" fill="#000"/>
-  <text x="12" y="16" fill="#fff" font-family="DejaVu Sans Mono,monospace" font-size="11">${label}</text>
-</svg>
-`;
+const svg = renderBadge('npm downloads', total,
+  `${label} across ${packages.length} packages, through ${through}`);
 
 // Publish only after every package and time range has succeeded.
 await mkdir(assets, { recursive: true });

@@ -1,5 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="248" height="24" role="img" aria-label="GitHub release downloads: 14,982">
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="34" role="img" aria-label="GitHub release downloads: 14,982">
   <title>GitHub release downloads: 14,982 across 37 repositories, checked 2026-10-19</title>
-  <rect width="248" height="24" fill="#000"/>
-  <text x="12" y="16" fill="#fff" font-family="DejaVu Sans Mono,monospace" font-size="11">GitHub release downloads: 14,982</text>
+  <rect width="256" height="34" rx="5" fill="#161B22"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">
+    <text x="12" y="22" fill="#FFFFFF" font-size="13" font-weight="500">GitHub release downloads</text>
+    <text x="244" y="22" text-anchor="end" fill="#B19AEF" font-size="14" font-weight="600" style="font-variant-numeric:tabular-nums">14,982</text>
+  </g>
 </svg>

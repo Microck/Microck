@@ -20,6 +20,8 @@ the workflow to recover.
 `assets/npm-downloads.json` records the cutoff date and individual counts.
 `assets/npm-downloads.svg` displays their exact sum in the profile README.
 The workflow commits only these two generated files when they change.
+The [shared badge renderer](github-downloads.md#appearance) keeps its appearance
+consistent with the GitHub badges and Spotify widget.
 
 Sources: [npm downloads API](https://github.com/npm/registry/blob/main/docs/download-counts.md)
 and [registry search API](https://github.com/npm/registry/blob/main/docs/REGISTRY-API.md#get-v1search).
