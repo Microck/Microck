@@ -18,15 +18,15 @@
     </a>
   </div>
 
----
-
-if the tool forces the user to do things a particular way, then the tool is working against, rather than for, the user | [projects.micr.dev](https://projects.micr.dev/)
-
 <p align="center">
   <a href="https://www.npmjs.com/~microck"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/npm-downloads.svg" /><img src="assets/npm-downloads-light.svg" alt="npm downloads" /></picture></a>
   <a href="docs/github-downloads.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/github-downloads.svg" /><img src="assets/github-downloads-light.svg" alt="GitHub release downloads" /></picture></a>
   <a href="docs/github-downloads.md#total-stars"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/github-stars.svg" /><img src="assets/github-stars-light.svg" alt="GitHub stars" /></picture></a>
 </p>
+
+---
+
+if the tool forces the user to do things a particular way, then the tool is working against, rather than for, the user | [projects.micr.dev](https://projects.micr.dev/)
 
 <!-- Projects collage (auto-wraps based on screen width) -->
 <!-- <div align="center">
