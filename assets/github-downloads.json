@@ -1,15 +1,15 @@
 {
   "username": "Microck",
-  "checkedOn": "2026-10-22",
-  "total": 15859,
-  "stars": 2160,
+  "checkedOn": "2026-10-23",
+  "total": 16086,
+  "stars": 2169,
   "disabledRepositories": [
     "SecPlus-AI-Quizzer"
   ],
   "repositories": [
     {
       "name": "akron",
-      "downloads": 3153,
+      "downloads": 3295,
       "excludedDownloads": 112
     },
     {
@@ -29,7 +29,7 @@
     },
     {
       "name": "boilify",
-      "downloads": 950,
+      "downloads": 954,
       "excludedDownloads": 0
     },
     {
@@ -59,8 +59,8 @@
     },
     {
       "name": "kagi-cli",
-      "downloads": 6703,
-      "excludedDownloads": 209
+      "downloads": 6754,
+      "excludedDownloads": 214
     },
     {
       "name": "keyflare-qmk-tool",
@@ -95,7 +95,7 @@
     {
       "name": "mullgate",
       "downloads": 257,
-      "excludedDownloads": 25
+      "excludedDownloads": 30
     },
     {
       "name": "old-f3",
@@ -114,8 +114,8 @@
     },
     {
       "name": "raft",
-      "downloads": 279,
-      "excludedDownloads": 66
+      "downloads": 281,
+      "excludedDownloads": 67
     },
     {
       "name": "ravenbin-cli",
@@ -134,8 +134,8 @@
     },
     {
       "name": "satelle",
-      "downloads": 2027,
-      "excludedDownloads": 733
+      "downloads": 2029,
+      "excludedDownloads": 735
     },
     {
       "name": "semrush-cli",
@@ -174,7 +174,7 @@
     },
     {
       "name": "veskforge",
-      "downloads": 328,
+      "downloads": 336,
       "excludedDownloads": 0
     },
     {
@@ -184,13 +184,13 @@
     },
     {
       "name": "vinted-cli",
-      "downloads": 127,
-      "excludedDownloads": 95
+      "downloads": 130,
+      "excludedDownloads": 96
     },
     {
       "name": "wallapop-cli",
-      "downloads": 337,
-      "excludedDownloads": 197
+      "downloads": 352,
+      "excludedDownloads": 209
     },
     {
       "name": "YAWN60",
