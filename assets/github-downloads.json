@@ -1,21 +1,21 @@
 {
   "username": "Microck",
-  "checkedOn": "2026-10-23",
-  "total": 16086,
-  "stars": 2169,
+  "checkedOn": "2026-10-24",
+  "total": 16368,
+  "stars": 2172,
   "disabledRepositories": [
     "SecPlus-AI-Quizzer"
   ],
   "repositories": [
     {
       "name": "akron",
-      "downloads": 3295,
+      "downloads": 3434,
       "excludedDownloads": 112
     },
     {
       "name": "ambivalence",
-      "downloads": 102,
-      "excludedDownloads": 97
+      "downloads": 103,
+      "excludedDownloads": 98
     },
     {
       "name": "ancla",
@@ -29,7 +29,7 @@
     },
     {
       "name": "boilify",
-      "downloads": 954,
+      "downloads": 961,
       "excludedDownloads": 0
     },
     {
@@ -59,8 +59,8 @@
     },
     {
       "name": "kagi-cli",
-      "downloads": 6754,
-      "excludedDownloads": 214
+      "downloads": 6770,
+      "excludedDownloads": 215
     },
     {
       "name": "keyflare-qmk-tool",
@@ -71,6 +71,11 @@
       "name": "kimi-k2-stealth-extension",
       "downloads": 17,
       "excludedDownloads": 0
+    },
+    {
+      "name": "lsops",
+      "downloads": 6,
+      "excludedDownloads": 6
     },
     {
       "name": "md2pkt",
@@ -89,7 +94,7 @@
     },
     {
       "name": "moji",
-      "downloads": 232,
+      "downloads": 233,
       "excludedDownloads": 0
     },
     {
@@ -104,18 +109,18 @@
     },
     {
       "name": "pangram-cli",
-      "downloads": 253,
+      "downloads": 258,
       "excludedDownloads": 59
     },
     {
       "name": "protoncode",
-      "downloads": 49,
+      "downloads": 51,
       "excludedDownloads": 0
     },
     {
       "name": "raft",
-      "downloads": 281,
-      "excludedDownloads": 67
+      "downloads": 283,
+      "excludedDownloads": 68
     },
     {
       "name": "ravenbin-cli",
@@ -134,8 +139,8 @@
     },
     {
       "name": "satelle",
-      "downloads": 2029,
-      "excludedDownloads": 735
+      "downloads": 2117,
+      "excludedDownloads": 770
     },
     {
       "name": "semrush-cli",
@@ -144,12 +149,12 @@
     },
     {
       "name": "sincronizado",
-      "downloads": 8,
+      "downloads": 9,
       "excludedDownloads": 0
     },
     {
       "name": "tailstick",
-      "downloads": 169,
+      "downloads": 170,
       "excludedDownloads": 0
     },
     {
@@ -174,7 +179,7 @@
     },
     {
       "name": "veskforge",
-      "downloads": 336,
+      "downloads": 337,
       "excludedDownloads": 0
     },
     {
@@ -184,13 +189,13 @@
     },
     {
       "name": "vinted-cli",
-      "downloads": 130,
-      "excludedDownloads": 96
+      "downloads": 131,
+      "excludedDownloads": 97
     },
     {
       "name": "wallapop-cli",
-      "downloads": 352,
-      "excludedDownloads": 209
+      "downloads": 363,
+      "excludedDownloads": 218
     },
     {
       "name": "YAWN60",
