@@ -1,21 +1,21 @@
 {
   "username": "Microck",
-  "checkedOn": "2026-10-25",
-  "total": 16631,
-  "stars": 2172,
+  "checkedOn": "2026-10-26",
+  "total": 16953,
+  "stars": 2176,
   "disabledRepositories": [
     "SecPlus-AI-Quizzer"
   ],
   "repositories": [
     {
       "name": "akron",
-      "downloads": 3580,
+      "downloads": 3737,
       "excludedDownloads": 112
     },
     {
       "name": "ambivalence",
-      "downloads": 111,
-      "excludedDownloads": 101
+      "downloads": 117,
+      "excludedDownloads": 102
     },
     {
       "name": "ancla",
@@ -29,7 +29,7 @@
     },
     {
       "name": "boilify",
-      "downloads": 967,
+      "downloads": 986,
       "excludedDownloads": 0
     },
     {
@@ -54,13 +54,13 @@
     },
     {
       "name": "gitquarry",
-      "downloads": 320,
+      "downloads": 321,
       "excludedDownloads": 28
     },
     {
       "name": "kagi-cli",
-      "downloads": 6792,
-      "excludedDownloads": 219
+      "downloads": 6847,
+      "excludedDownloads": 225
     },
     {
       "name": "keyflare-qmk-tool",
@@ -94,12 +94,12 @@
     },
     {
       "name": "moji",
-      "downloads": 234,
+      "downloads": 240,
       "excludedDownloads": 0
     },
     {
       "name": "mullgate",
-      "downloads": 257,
+      "downloads": 258,
       "excludedDownloads": 31
     },
     {
@@ -109,13 +109,13 @@
     },
     {
       "name": "opencode-studio",
-      "downloads": 2,
+      "downloads": 4,
       "excludedDownloads": 2
     },
     {
       "name": "pangram-cli",
-      "downloads": 262,
-      "excludedDownloads": 61
+      "downloads": 271,
+      "excludedDownloads": 63
     },
     {
       "name": "protoncode",
@@ -124,7 +124,7 @@
     },
     {
       "name": "raft",
-      "downloads": 290,
+      "downloads": 294,
       "excludedDownloads": 69
     },
     {
@@ -134,7 +134,7 @@
     },
     {
       "name": "react-grab-anywhere-injector",
-      "downloads": 28,
+      "downloads": 29,
       "excludedDownloads": 0
     },
     {
@@ -144,8 +144,8 @@
     },
     {
       "name": "satelle",
-      "downloads": 2117,
-      "excludedDownloads": 770
+      "downloads": 2136,
+      "excludedDownloads": 779
     },
     {
       "name": "semrush-cli",
@@ -179,32 +179,32 @@
     },
     {
       "name": "vapora",
-      "downloads": 61,
+      "downloads": 68,
       "excludedDownloads": 10
     },
     {
       "name": "veskforge",
-      "downloads": 341,
+      "downloads": 342,
       "excludedDownloads": 0
     },
     {
       "name": "veyoff",
-      "downloads": 58,
+      "downloads": 63,
       "excludedDownloads": 0
     },
     {
       "name": "vinted-cli",
-      "downloads": 180,
-      "excludedDownloads": 129
+      "downloads": 198,
+      "excludedDownloads": 141
     },
     {
       "name": "wallapop-cli",
-      "downloads": 375,
-      "excludedDownloads": 226
+      "downloads": 385,
+      "excludedDownloads": 232
     },
     {
       "name": "YAWN60",
-      "downloads": 10,
+      "downloads": 11,
       "excludedDownloads": 0
     }
   ]
