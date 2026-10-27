@@ -1,247 +1,247 @@
 {
   "username": "microck",
-  "through": "2026-10-22",
-  "total": 131903,
+  "through": "2026-07-01",
+  "total": 48757,
   "packages": [
     {
       "name": "@microck/canonfig",
       "start": "2026-08-20",
-      "downloads": 1733
+      "downloads": 0
     },
     {
       "name": "@microck/moji",
       "start": "2026-07-10",
-      "downloads": 2948
+      "downloads": 0
     },
     {
       "name": "@microck/pangram-cli",
       "start": "2026-08-27",
-      "downloads": 1163
+      "downloads": 0
     },
     {
       "name": "@microck/pangram-cli-darwin-arm64",
       "start": "2026-08-27",
-      "downloads": 1161
+      "downloads": 0
     },
     {
       "name": "@microck/pangram-cli-darwin-x64",
       "start": "2026-08-27",
-      "downloads": 1094
+      "downloads": 0
     },
     {
       "name": "@microck/pangram-cli-linux-arm64",
       "start": "2026-08-27",
-      "downloads": 1146
+      "downloads": 0
     },
     {
       "name": "@microck/pangram-cli-linux-x64",
       "start": "2026-08-27",
-      "downloads": 1250
+      "downloads": 0
     },
     {
       "name": "@microck/pangram-cli-win32-x64",
       "start": "2026-08-27",
-      "downloads": 1128
+      "downloads": 0
     },
     {
       "name": "@microck/raft",
       "start": "2026-10-07",
-      "downloads": 629
+      "downloads": 0
     },
     {
       "name": "@microck/revisor",
       "start": "2026-05-14",
-      "downloads": 1009
+      "downloads": 875
     },
     {
       "name": "@microck/revisor-darwin-arm64",
       "start": "2026-05-14",
-      "downloads": 772
+      "downloads": 680
     },
     {
       "name": "@microck/revisor-darwin-x64",
       "start": "2026-05-14",
-      "downloads": 758
+      "downloads": 658
     },
     {
       "name": "@microck/revisor-linux-arm64",
       "start": "2026-05-14",
-      "downloads": 739
+      "downloads": 671
     },
     {
       "name": "@microck/revisor-linux-x64",
       "start": "2026-05-14",
-      "downloads": 813
+      "downloads": 738
     },
     {
       "name": "@microck/revisor-win32-arm64",
       "start": "2026-05-14",
-      "downloads": 774
+      "downloads": 699
     },
     {
       "name": "@microck/revisor-win32-x64",
       "start": "2026-05-14",
-      "downloads": 787
+      "downloads": 708
     },
     {
       "name": "@microck/satelle",
       "start": "2026-08-07",
-      "downloads": 6624
+      "downloads": 0
     },
     {
       "name": "@microck/satelle-darwin-arm64",
       "start": "2026-08-07",
-      "downloads": 5708
+      "downloads": 0
     },
     {
       "name": "@microck/satelle-darwin-x64",
       "start": "2026-08-07",
-      "downloads": 5612
+      "downloads": 0
     },
     {
       "name": "@microck/satelle-linux-arm64-gnu",
       "start": "2026-08-07",
-      "downloads": 5652
+      "downloads": 0
     },
     {
       "name": "@microck/satelle-linux-x64-gnu",
       "start": "2026-08-07",
-      "downloads": 5388
+      "downloads": 0
     },
     {
       "name": "@microck/satelle-win32-arm64-msvc",
       "start": "2026-08-07",
-      "downloads": 5400
+      "downloads": 0
     },
     {
       "name": "@microck/satelle-win32-x64-msvc",
       "start": "2026-08-07",
-      "downloads": 5486
+      "downloads": 0
     },
     {
       "name": "@microck/traccia",
       "start": "2026-07-02",
-      "downloads": 263
+      "downloads": 0
     },
     {
       "name": "@tuireel/core",
       "start": "2026-03-04",
-      "downloads": 170
+      "downloads": 138
     },
     {
       "name": "agy-p",
       "start": "2026-05-22",
-      "downloads": 249
+      "downloads": 212
     },
     {
       "name": "ambivalence",
       "start": "2026-10-18",
-      "downloads": 487
+      "downloads": 0
     },
     {
       "name": "camofox-browser-mcp",
       "start": "2026-02-23",
-      "downloads": 2391
+      "downloads": 1147
     },
     {
       "name": "chatgpt-webui-mcp",
       "start": "2026-02-24",
-      "downloads": 1615
+      "downloads": 1038
     },
     {
       "name": "codexport",
       "start": "2026-05-24",
-      "downloads": 5568
+      "downloads": 5290
     },
     {
       "name": "discord-selfbot-mcp",
       "start": "2026-01-04",
-      "downloads": 7488
+      "downloads": 4102
     },
     {
       "name": "galleton",
       "start": "2026-10-15",
-      "downloads": 311
+      "downloads": 0
     },
     {
       "name": "gitbanana",
       "start": "2026-06-03",
-      "downloads": 560
+      "downloads": 491
     },
     {
       "name": "gitquarry",
       "start": "2026-04-22",
-      "downloads": 1151
+      "downloads": 936
     },
     {
       "name": "kagi-cli",
       "start": "2026-03-16",
-      "downloads": 11180
+      "downloads": 6525
     },
     {
       "name": "md2pkt",
       "start": "2026-04-30",
-      "downloads": 719
+      "downloads": 520
     },
     {
       "name": "mullgate",
       "start": "2026-03-23",
-      "downloads": 2328
+      "downloads": 1965
     },
     {
       "name": "opencode-gitlab-multi-pat",
       "start": "2026-03-11",
-      "downloads": 207
+      "downloads": 155
     },
     {
       "name": "opencode-session-backup",
       "start": "2026-01-29",
-      "downloads": 909
+      "downloads": 515
     },
     {
       "name": "opencode-studio-server",
       "start": "2026-01-03",
-      "downloads": 19618
+      "downloads": 16849
     },
     {
       "name": "perplexity-webui-mcp",
       "start": "2026-02-07",
-      "downloads": 3066
+      "downloads": 2513
     },
     {
       "name": "satelle",
       "start": "2026-08-07",
-      "downloads": 6194
+      "downloads": 0
     },
     {
       "name": "semrush-cli",
       "start": "2026-10-14",
-      "downloads": 5415
+      "downloads": 0
     },
     {
       "name": "sincronizado",
       "start": "2026-01-31",
-      "downloads": 1283
+      "downloads": 1178
     },
     {
       "name": "suno-api-cli",
       "start": "2026-10-07",
-      "downloads": 1227
+      "downloads": 0
     },
     {
       "name": "tuireel",
       "start": "2026-03-04",
-      "downloads": 175
+      "downloads": 154
     },
     {
       "name": "vinted-cli",
       "start": "2026-10-18",
-      "downloads": 342
+      "downloads": 0
     },
     {
       "name": "wallapop-cli",
       "start": "2026-09-17",
-      "downloads": 1213
+      "downloads": 0
     }
   ]
 }
