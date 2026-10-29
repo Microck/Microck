@@ -1,20 +1,20 @@
 {
   "username": "Microck",
-  "checkedOn": "2026-10-28",
-  "total": 17459,
-  "stars": 2186,
+  "checkedOn": "2026-10-29",
+  "total": 17668,
+  "stars": 2191,
   "disabledRepositories": [
     "SecPlus-AI-Quizzer"
   ],
   "repositories": [
     {
       "name": "akron",
-      "downloads": 4025,
+      "downloads": 4168,
       "excludedDownloads": 112
     },
     {
       "name": "ambivalence",
-      "downloads": 119,
+      "downloads": 120,
       "excludedDownloads": 102
     },
     {
@@ -29,7 +29,7 @@
     },
     {
       "name": "boilify",
-      "downloads": 1021,
+      "downloads": 1025,
       "excludedDownloads": 0
     },
     {
@@ -59,8 +59,8 @@
     },
     {
       "name": "kagi-cli",
-      "downloads": 6981,
-      "excludedDownloads": 236
+      "downloads": 7010,
+      "excludedDownloads": 243
     },
     {
       "name": "keyflare-qmk-tool",
@@ -74,8 +74,8 @@
     },
     {
       "name": "lsops",
-      "downloads": 9,
-      "excludedDownloads": 9
+      "downloads": 11,
+      "excludedDownloads": 11
     },
     {
       "name": "md2pkt",
@@ -94,12 +94,12 @@
     },
     {
       "name": "moji",
-      "downloads": 243,
+      "downloads": 248,
       "excludedDownloads": 0
     },
     {
       "name": "mullgate",
-      "downloads": 259,
+      "downloads": 261,
       "excludedDownloads": 31
     },
     {
@@ -109,8 +109,8 @@
     },
     {
       "name": "opencode-studio",
-      "downloads": 6,
-      "excludedDownloads": 4
+      "downloads": 9,
+      "excludedDownloads": 5
     },
     {
       "name": "pangram-cli",
@@ -159,7 +159,7 @@
     },
     {
       "name": "tailstick",
-      "downloads": 171,
+      "downloads": 175,
       "excludedDownloads": 0
     },
     {
@@ -174,7 +174,7 @@
     },
     {
       "name": "UndyingTerminal",
-      "downloads": 38,
+      "downloads": 39,
       "excludedDownloads": 0
     },
     {
@@ -184,23 +184,23 @@
     },
     {
       "name": "veskforge",
-      "downloads": 345,
+      "downloads": 347,
       "excludedDownloads": 0
     },
     {
       "name": "veyoff",
-      "downloads": 64,
+      "downloads": 65,
       "excludedDownloads": 0
     },
     {
       "name": "vinted-cli",
-      "downloads": 204,
-      "excludedDownloads": 147
+      "downloads": 205,
+      "excludedDownloads": 149
     },
     {
       "name": "wallapop-cli",
-      "downloads": 401,
-      "excludedDownloads": 244
+      "downloads": 412,
+      "excludedDownloads": 253
     },
     {
       "name": "YAWN60",
