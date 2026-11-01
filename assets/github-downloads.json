@@ -1,15 +1,15 @@
 {
   "username": "Microck",
-  "checkedOn": "2026-10-31",
-  "total": 18225,
-  "stars": 2197,
+  "checkedOn": "2026-11-01",
+  "total": 19227,
+  "stars": 2200,
   "disabledRepositories": [
     "SecPlus-AI-Quizzer"
   ],
   "repositories": [
     {
       "name": "akron",
-      "downloads": 4452,
+      "downloads": 4600,
       "excludedDownloads": 112
     },
     {
@@ -29,7 +29,7 @@
     },
     {
       "name": "boilify",
-      "downloads": 1037,
+      "downloads": 1043,
       "excludedDownloads": 0
     },
     {
@@ -64,8 +64,8 @@
     },
     {
       "name": "kagi-cli",
-      "downloads": 7064,
-      "excludedDownloads": 253
+      "downloads": 7878,
+      "excludedDownloads": 323
     },
     {
       "name": "keyflare-qmk-tool",
@@ -99,7 +99,7 @@
     },
     {
       "name": "moji",
-      "downloads": 251,
+      "downloads": 252,
       "excludedDownloads": 0
     },
     {
@@ -129,8 +129,8 @@
     },
     {
       "name": "raft",
-      "downloads": 382,
-      "excludedDownloads": 78
+      "downloads": 396,
+      "excludedDownloads": 80
     },
     {
       "name": "ravenbin-cli",
@@ -164,7 +164,7 @@
     },
     {
       "name": "tailstick",
-      "downloads": 175,
+      "downloads": 179,
       "excludedDownloads": 0
     },
     {
@@ -179,7 +179,7 @@
     },
     {
       "name": "UndyingTerminal",
-      "downloads": 41,
+      "downloads": 42,
       "excludedDownloads": 0
     },
     {
@@ -189,12 +189,12 @@
     },
     {
       "name": "veskforge",
-      "downloads": 355,
+      "downloads": 360,
       "excludedDownloads": 0
     },
     {
       "name": "veyoff",
-      "downloads": 65,
+      "downloads": 68,
       "excludedDownloads": 0
     },
     {
@@ -204,8 +204,8 @@
     },
     {
       "name": "wallapop-cli",
-      "downloads": 474,
-      "excludedDownloads": 270
+      "downloads": 480,
+      "excludedDownloads": 271
     },
     {
       "name": "YAWN60",
