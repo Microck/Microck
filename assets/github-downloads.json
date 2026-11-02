@@ -1,15 +1,15 @@
 {
   "username": "Microck",
-  "checkedOn": "2026-11-01",
-  "total": 19227,
-  "stars": 2200,
+  "checkedOn": "2026-11-02",
+  "total": 19564,
+  "stars": 2204,
   "disabledRepositories": [
     "SecPlus-AI-Quizzer"
   ],
   "repositories": [
     {
       "name": "akron",
-      "downloads": 4600,
+      "downloads": 4764,
       "excludedDownloads": 112
     },
     {
@@ -29,7 +29,7 @@
     },
     {
       "name": "boilify",
-      "downloads": 1043,
+      "downloads": 1056,
       "excludedDownloads": 0
     },
     {
@@ -64,8 +64,8 @@
     },
     {
       "name": "kagi-cli",
-      "downloads": 7878,
-      "excludedDownloads": 323
+      "downloads": 7931,
+      "excludedDownloads": 329
     },
     {
       "name": "keyflare-qmk-tool",
@@ -99,7 +99,7 @@
     },
     {
       "name": "moji",
-      "downloads": 252,
+      "downloads": 254,
       "excludedDownloads": 0
     },
     {
@@ -164,7 +164,7 @@
     },
     {
       "name": "tailstick",
-      "downloads": 179,
+      "downloads": 184,
       "excludedDownloads": 0
     },
     {
@@ -189,7 +189,7 @@
     },
     {
       "name": "veskforge",
-      "downloads": 360,
+      "downloads": 362,
       "excludedDownloads": 0
     },
     {
@@ -199,13 +199,13 @@
     },
     {
       "name": "vinted-cli",
-      "downloads": 206,
-      "excludedDownloads": 149
+      "downloads": 208,
+      "excludedDownloads": 150
     },
     {
       "name": "wallapop-cli",
-      "downloads": 480,
-      "excludedDownloads": 271
+      "downloads": 576,
+      "excludedDownloads": 304
     },
     {
       "name": "YAWN60",
