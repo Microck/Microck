@@ -1,15 +1,15 @@
 {
   "username": "Microck",
-  "checkedOn": "2026-11-12",
-  "total": 21995,
-  "stars": 2239,
+  "checkedOn": "2026-11-13",
+  "total": 22221,
+  "stars": 2241,
   "disabledRepositories": [
     "SecPlus-AI-Quizzer"
   ],
   "repositories": [
     {
       "name": "akron",
-      "downloads": 6166,
+      "downloads": 6321,
       "excludedDownloads": 112
     },
     {
@@ -29,7 +29,7 @@
     },
     {
       "name": "boilify",
-      "downloads": 1115,
+      "downloads": 1118,
       "excludedDownloads": 0
     },
     {
@@ -64,8 +64,8 @@
     },
     {
       "name": "kagi-cli",
-      "downloads": 8320,
-      "excludedDownloads": 417
+      "downloads": 8361,
+      "excludedDownloads": 429
     },
     {
       "name": "keyflare-qmk-tool",
@@ -104,7 +104,7 @@
     },
     {
       "name": "mullgate",
-      "downloads": 278,
+      "downloads": 280,
       "excludedDownloads": 35
     },
     {
@@ -114,8 +114,8 @@
     },
     {
       "name": "opencode-studio",
-      "downloads": 28,
-      "excludedDownloads": 14
+      "downloads": 33,
+      "excludedDownloads": 15
     },
     {
       "name": "openvector",
@@ -129,7 +129,7 @@
     },
     {
       "name": "protoncode",
-      "downloads": 52,
+      "downloads": 53,
       "excludedDownloads": 0
     },
     {
@@ -189,7 +189,7 @@
     },
     {
       "name": "UndyingTerminal",
-      "downloads": 51,
+      "downloads": 52,
       "excludedDownloads": 0
     },
     {
@@ -199,7 +199,7 @@
     },
     {
       "name": "veskforge",
-      "downloads": 414,
+      "downloads": 418,
       "excludedDownloads": 0
     },
     {
@@ -209,13 +209,13 @@
     },
     {
       "name": "vinted-cli",
-      "downloads": 228,
-      "excludedDownloads": 154
+      "downloads": 230,
+      "excludedDownloads": 156
     },
     {
       "name": "wallapop-cli",
-      "downloads": 716,
-      "excludedDownloads": 380
+      "downloads": 728,
+      "excludedDownloads": 388
     },
     {
       "name": "YAWN60",
