@@ -1,22 +1,22 @@
 {
   "username": "microck",
-  "through": "2026-11-11",
-  "total": 157846,
+  "through": "2026-11-12",
+  "total": 158608,
   "packages": [
     {
       "name": "@microck/canonfig",
       "start": "2026-08-20",
-      "downloads": 5059
+      "downloads": 5139
     },
     {
       "name": "@microck/moji",
       "start": "2026-07-10",
-      "downloads": 4255
+      "downloads": 4264
     },
     {
       "name": "@microck/pangram-cli",
       "start": "2026-08-27",
-      "downloads": 1283
+      "downloads": 1286
     },
     {
       "name": "@microck/pangram-cli-darwin-arm64",
@@ -31,7 +31,7 @@
     {
       "name": "@microck/pangram-cli-linux-arm64",
       "start": "2026-08-27",
-      "downloads": 1289
+      "downloads": 1301
     },
     {
       "name": "@microck/pangram-cli-linux-x64",
@@ -41,12 +41,12 @@
     {
       "name": "@microck/pangram-cli-win32-x64",
       "start": "2026-08-27",
-      "downloads": 1250
+      "downloads": 1251
     },
     {
       "name": "@microck/raft",
       "start": "2026-10-07",
-      "downloads": 1668
+      "downloads": 1677
     },
     {
       "name": "@microck/revisor",
@@ -86,42 +86,42 @@
     {
       "name": "@microck/sandbox-sdk-raft",
       "start": "2026-10-31",
-      "downloads": 246
+      "downloads": 248
     },
     {
       "name": "@microck/satelle",
       "start": "2026-08-07",
-      "downloads": 7860
+      "downloads": 7940
     },
     {
       "name": "@microck/satelle-darwin-arm64",
       "start": "2026-08-07",
-      "downloads": 6748
+      "downloads": 6755
     },
     {
       "name": "@microck/satelle-darwin-x64",
       "start": "2026-08-07",
-      "downloads": 6629
+      "downloads": 6630
     },
     {
       "name": "@microck/satelle-linux-arm64-gnu",
       "start": "2026-08-07",
-      "downloads": 6751
+      "downloads": 6841
     },
     {
       "name": "@microck/satelle-linux-x64-gnu",
       "start": "2026-08-07",
-      "downloads": 7374
+      "downloads": 7375
     },
     {
       "name": "@microck/satelle-win32-arm64-msvc",
       "start": "2026-08-07",
-      "downloads": 6512
+      "downloads": 6540
     },
     {
       "name": "@microck/satelle-win32-x64-msvc",
       "start": "2026-08-07",
-      "downloads": 6621
+      "downloads": 6622
     },
     {
       "name": "@microck/traccia",
@@ -141,17 +141,17 @@
     {
       "name": "ambivalence",
       "start": "2026-10-18",
-      "downloads": 831
+      "downloads": 834
     },
     {
       "name": "camofox-browser-mcp",
       "start": "2026-02-23",
-      "downloads": 2717
+      "downloads": 2721
     },
     {
       "name": "chatgpt-webui-mcp",
       "start": "2026-02-24",
-      "downloads": 2091
+      "downloads": 2120
     },
     {
       "name": "codexport",
@@ -161,17 +161,17 @@
     {
       "name": "discord-selfbot-mcp",
       "start": "2026-01-04",
-      "downloads": 7929
+      "downloads": 7976
     },
     {
       "name": "elevenlabs-web-cli",
       "start": "2026-10-29",
-      "downloads": 563
+      "downloads": 567
     },
     {
       "name": "galleton",
       "start": "2026-10-15",
-      "downloads": 720
+      "downloads": 723
     },
     {
       "name": "gitbanana",
@@ -181,17 +181,17 @@
     {
       "name": "gitquarry",
       "start": "2026-04-22",
-      "downloads": 1379
+      "downloads": 1380
     },
     {
       "name": "kagi-cli",
       "start": "2026-03-16",
-      "downloads": 12587
+      "downloads": 12595
     },
     {
       "name": "md2pkt",
       "start": "2026-04-30",
-      "downloads": 787
+      "downloads": 788
     },
     {
       "name": "mullgate",
@@ -206,32 +206,32 @@
     {
       "name": "opencode-session-backup",
       "start": "2026-01-29",
-      "downloads": 1044
+      "downloads": 1047
     },
     {
       "name": "opencode-studio-server",
       "start": "2026-01-03",
-      "downloads": 20677
+      "downloads": 20873
     },
     {
       "name": "openvector",
       "start": "2026-11-07",
-      "downloads": 459
+      "downloads": 466
     },
     {
       "name": "perplexity-webui-mcp",
       "start": "2026-02-07",
-      "downloads": 3635
+      "downloads": 3660
     },
     {
       "name": "satelle",
       "start": "2026-08-07",
-      "downloads": 7373
+      "downloads": 7375
     },
     {
       "name": "semrush-cli",
       "start": "2026-10-14",
-      "downloads": 5761
+      "downloads": 5763
     },
     {
       "name": "sincronizado",
@@ -241,7 +241,7 @@
     {
       "name": "suno-api-cli",
       "start": "2026-10-07",
-      "downloads": 2284
+      "downloads": 2379
     },
     {
       "name": "tuireel",
@@ -251,12 +251,12 @@
     {
       "name": "vinted-cli",
       "start": "2026-10-18",
-      "downloads": 755
+      "downloads": 757
     },
     {
       "name": "wallapop-cli",
       "start": "2026-09-17",
-      "downloads": 1597
+      "downloads": 1603
     }
   ]
 }
