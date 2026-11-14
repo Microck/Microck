@@ -1,15 +1,15 @@
 {
   "username": "Microck",
-  "checkedOn": "2026-11-13",
-  "total": 22221,
-  "stars": 2241,
+  "checkedOn": "2026-11-14",
+  "total": 22433,
+  "stars": 2248,
   "disabledRepositories": [
     "SecPlus-AI-Quizzer"
   ],
   "repositories": [
     {
       "name": "akron",
-      "downloads": 6321,
+      "downloads": 6457,
       "excludedDownloads": 112
     },
     {
@@ -29,7 +29,7 @@
     },
     {
       "name": "boilify",
-      "downloads": 1118,
+      "downloads": 1121,
       "excludedDownloads": 0
     },
     {
@@ -39,7 +39,7 @@
     },
     {
       "name": "Celeste-QuarziteSkin",
-      "downloads": 8,
+      "downloads": 9,
       "excludedDownloads": 0
     },
     {
@@ -64,12 +64,12 @@
     },
     {
       "name": "kagi-cli",
-      "downloads": 8361,
-      "excludedDownloads": 429
+      "downloads": 8392,
+      "excludedDownloads": 437
     },
     {
       "name": "keyflare-qmk-tool",
-      "downloads": 85,
+      "downloads": 86,
       "excludedDownloads": 0
     },
     {
@@ -104,8 +104,8 @@
     },
     {
       "name": "mullgate",
-      "downloads": 280,
-      "excludedDownloads": 35
+      "downloads": 281,
+      "excludedDownloads": 36
     },
     {
       "name": "old-f3",
@@ -114,7 +114,7 @@
     },
     {
       "name": "opencode-studio",
-      "downloads": 33,
+      "downloads": 34,
       "excludedDownloads": 15
     },
     {
@@ -144,7 +144,7 @@
     },
     {
       "name": "react-grab-anywhere-injector",
-      "downloads": 29,
+      "downloads": 30,
       "excludedDownloads": 0
     },
     {
@@ -154,7 +154,7 @@
     },
     {
       "name": "satelle",
-      "downloads": 2175,
+      "downloads": 2190,
       "excludedDownloads": 779
     },
     {
@@ -164,7 +164,7 @@
     },
     {
       "name": "sincronizado",
-      "downloads": 9,
+      "downloads": 10,
       "excludedDownloads": 0
     },
     {
@@ -179,7 +179,7 @@
     },
     {
       "name": "traccia",
-      "downloads": 1,
+      "downloads": 2,
       "excludedDownloads": 0
     },
     {
@@ -199,7 +199,7 @@
     },
     {
       "name": "veskforge",
-      "downloads": 418,
+      "downloads": 420,
       "excludedDownloads": 0
     },
     {
@@ -209,17 +209,17 @@
     },
     {
       "name": "vinted-cli",
-      "downloads": 230,
-      "excludedDownloads": 156
+      "downloads": 231,
+      "excludedDownloads": 157
     },
     {
       "name": "wallapop-cli",
-      "downloads": 728,
-      "excludedDownloads": 388
+      "downloads": 744,
+      "excludedDownloads": 402
     },
     {
       "name": "YAWN60",
-      "downloads": 12,
+      "downloads": 13,
       "excludedDownloads": 0
     }
   ]
