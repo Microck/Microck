@@ -1,15 +1,15 @@
 {
   "username": "Microck",
-  "checkedOn": "2026-11-14",
-  "total": 22433,
-  "stars": 2248,
+  "checkedOn": "2026-11-15",
+  "total": 22661,
+  "stars": 2249,
   "disabledRepositories": [
     "SecPlus-AI-Quizzer"
   ],
   "repositories": [
     {
       "name": "akron",
-      "downloads": 6457,
+      "downloads": 6605,
       "excludedDownloads": 112
     },
     {
@@ -29,7 +29,7 @@
     },
     {
       "name": "boilify",
-      "downloads": 1121,
+      "downloads": 1127,
       "excludedDownloads": 0
     },
     {
@@ -50,7 +50,7 @@
     {
       "name": "elevenlabs-cli",
       "downloads": 31,
-      "excludedDownloads": 23
+      "excludedDownloads": 25
     },
     {
       "name": "galleton",
@@ -64,8 +64,8 @@
     },
     {
       "name": "kagi-cli",
-      "downloads": 8392,
-      "excludedDownloads": 437
+      "downloads": 8432,
+      "excludedDownloads": 446
     },
     {
       "name": "keyflare-qmk-tool",
@@ -99,7 +99,7 @@
     },
     {
       "name": "moji",
-      "downloads": 289,
+      "downloads": 290,
       "excludedDownloads": 0
     },
     {
@@ -115,7 +115,7 @@
     {
       "name": "opencode-studio",
       "downloads": 34,
-      "excludedDownloads": 15
+      "excludedDownloads": 16
     },
     {
       "name": "openvector",
@@ -134,8 +134,8 @@
     },
     {
       "name": "raft",
-      "downloads": 415,
-      "excludedDownloads": 82
+      "downloads": 431,
+      "excludedDownloads": 84
     },
     {
       "name": "ravenbin-cli",
@@ -154,7 +154,7 @@
     },
     {
       "name": "satelle",
-      "downloads": 2190,
+      "downloads": 2192,
       "excludedDownloads": 779
     },
     {
@@ -164,7 +164,7 @@
     },
     {
       "name": "sincronizado",
-      "downloads": 10,
+      "downloads": 11,
       "excludedDownloads": 0
     },
     {
@@ -199,7 +199,7 @@
     },
     {
       "name": "veskforge",
-      "downloads": 420,
+      "downloads": 421,
       "excludedDownloads": 0
     },
     {
@@ -209,13 +209,13 @@
     },
     {
       "name": "vinted-cli",
-      "downloads": 231,
-      "excludedDownloads": 157
+      "downloads": 236,
+      "excludedDownloads": 159
     },
     {
       "name": "wallapop-cli",
-      "downloads": 744,
-      "excludedDownloads": 402
+      "downloads": 752,
+      "excludedDownloads": 408
     },
     {
       "name": "YAWN60",
