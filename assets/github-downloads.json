@@ -1,15 +1,15 @@
 {
   "username": "Microck",
-  "checkedOn": "2026-11-17",
-  "total": 23164,
-  "stars": 2253,
+  "checkedOn": "2026-11-18",
+  "total": 23371,
+  "stars": 2256,
   "disabledRepositories": [
     "SecPlus-AI-Quizzer"
   ],
   "repositories": [
     {
       "name": "akron",
-      "downloads": 6907,
+      "downloads": 7050,
       "excludedDownloads": 112
     },
     {
@@ -29,7 +29,7 @@
     },
     {
       "name": "boilify",
-      "downloads": 1134,
+      "downloads": 1150,
       "excludedDownloads": 0
     },
     {
@@ -59,13 +59,13 @@
     },
     {
       "name": "gitquarry",
-      "downloads": 329,
+      "downloads": 333,
       "excludedDownloads": 28
     },
     {
       "name": "kagi-cli",
-      "downloads": 8503,
-      "excludedDownloads": 474
+      "downloads": 8531,
+      "excludedDownloads": 485
     },
     {
       "name": "keyflare-qmk-tool",
@@ -99,7 +99,7 @@
     },
     {
       "name": "moji",
-      "downloads": 292,
+      "downloads": 293,
       "excludedDownloads": 0
     },
     {
@@ -114,12 +114,12 @@
     },
     {
       "name": "opencode-studio",
-      "downloads": 36,
-      "excludedDownloads": 16
+      "downloads": 38,
+      "excludedDownloads": 17
     },
     {
       "name": "openvector",
-      "downloads": 56,
+      "downloads": 57,
       "excludedDownloads": 8
     },
     {
@@ -189,7 +189,7 @@
     },
     {
       "name": "UndyingTerminal",
-      "downloads": 52,
+      "downloads": 53,
       "excludedDownloads": 0
     },
     {
@@ -199,7 +199,7 @@
     },
     {
       "name": "veskforge",
-      "downloads": 429,
+      "downloads": 432,
       "excludedDownloads": 0
     },
     {
@@ -209,13 +209,13 @@
     },
     {
       "name": "vinted-cli",
-      "downloads": 244,
-      "excludedDownloads": 163
+      "downloads": 247,
+      "excludedDownloads": 166
     },
     {
       "name": "wallapop-cli",
-      "downloads": 827,
-      "excludedDownloads": 445
+      "downloads": 832,
+      "excludedDownloads": 450
     },
     {
       "name": "YAWN60",
