@@ -1,15 +1,15 @@
 {
   "username": "Microck",
-  "checkedOn": "2026-11-19",
-  "total": 23553,
-  "stars": 2286,
+  "checkedOn": "2026-11-20",
+  "total": 23731,
+  "stars": 2287,
   "disabledRepositories": [
     "SecPlus-AI-Quizzer"
   ],
   "repositories": [
     {
       "name": "akron",
-      "downloads": 7194,
+      "downloads": 7336,
       "excludedDownloads": 112
     },
     {
@@ -29,7 +29,7 @@
     },
     {
       "name": "boilify",
-      "downloads": 1154,
+      "downloads": 1158,
       "excludedDownloads": 0
     },
     {
@@ -59,13 +59,13 @@
     },
     {
       "name": "gitquarry",
-      "downloads": 333,
+      "downloads": 335,
       "excludedDownloads": 28
     },
     {
       "name": "kagi-cli",
-      "downloads": 8549,
-      "excludedDownloads": 491
+      "downloads": 8571,
+      "excludedDownloads": 500
     },
     {
       "name": "keyflare-qmk-tool",
@@ -99,7 +99,7 @@
     },
     {
       "name": "moji",
-      "downloads": 294,
+      "downloads": 296,
       "excludedDownloads": 0
     },
     {
@@ -199,7 +199,7 @@
     },
     {
       "name": "veskforge",
-      "downloads": 432,
+      "downloads": 433,
       "excludedDownloads": 0
     },
     {
@@ -214,8 +214,8 @@
     },
     {
       "name": "wallapop-cli",
-      "downloads": 841,
-      "excludedDownloads": 457
+      "downloads": 846,
+      "excludedDownloads": 462
     },
     {
       "name": "YAWN60",
