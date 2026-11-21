@@ -1,15 +1,15 @@
 {
   "username": "Microck",
-  "checkedOn": "2026-11-20",
-  "total": 23731,
-  "stars": 2287,
+  "checkedOn": "2026-11-21",
+  "total": 23917,
+  "stars": 2291,
   "disabledRepositories": [
     "SecPlus-AI-Quizzer"
   ],
   "repositories": [
     {
       "name": "akron",
-      "downloads": 7336,
+      "downloads": 7474,
       "excludedDownloads": 112
     },
     {
@@ -29,7 +29,7 @@
     },
     {
       "name": "boilify",
-      "downloads": 1158,
+      "downloads": 1166,
       "excludedDownloads": 0
     },
     {
@@ -49,7 +49,7 @@
     },
     {
       "name": "elevenlabs-cli",
-      "downloads": 33,
+      "downloads": 34,
       "excludedDownloads": 25
     },
     {
@@ -64,12 +64,12 @@
     },
     {
       "name": "kagi-cli",
-      "downloads": 8571,
-      "excludedDownloads": 500
+      "downloads": 8590,
+      "excludedDownloads": 509
     },
     {
       "name": "keyflare-qmk-tool",
-      "downloads": 87,
+      "downloads": 88,
       "excludedDownloads": 0
     },
     {
@@ -99,13 +99,13 @@
     },
     {
       "name": "moji",
-      "downloads": 296,
+      "downloads": 299,
       "excludedDownloads": 0
     },
     {
       "name": "mullgate",
-      "downloads": 282,
-      "excludedDownloads": 36
+      "downloads": 287,
+      "excludedDownloads": 37
     },
     {
       "name": "old-f3",
@@ -114,7 +114,7 @@
     },
     {
       "name": "opencode-studio",
-      "downloads": 38,
+      "downloads": 40,
       "excludedDownloads": 17
     },
     {
@@ -174,7 +174,7 @@
     },
     {
       "name": "tailstick",
-      "downloads": 188,
+      "downloads": 190,
       "excludedDownloads": 0
     },
     {
@@ -209,13 +209,13 @@
     },
     {
       "name": "vinted-cli",
-      "downloads": 248,
+      "downloads": 249,
       "excludedDownloads": 167
     },
     {
       "name": "wallapop-cli",
-      "downloads": 846,
-      "excludedDownloads": 462
+      "downloads": 852,
+      "excludedDownloads": 466
     },
     {
       "name": "YAWN60",
