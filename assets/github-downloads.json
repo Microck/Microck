@@ -1,15 +1,15 @@
 {
   "username": "Microck",
-  "checkedOn": "2026-11-23",
-  "total": 24472,
-  "stars": 2303,
+  "checkedOn": "2026-11-24",
+  "total": 24696,
+  "stars": 2308,
   "disabledRepositories": [
     "SecPlus-AI-Quizzer"
   ],
   "repositories": [
     {
       "name": "akron",
-      "downloads": 7949,
+      "downloads": 8088,
       "excludedDownloads": 200
     },
     {
@@ -29,7 +29,7 @@
     },
     {
       "name": "boilify",
-      "downloads": 1176,
+      "downloads": 1178,
       "excludedDownloads": 0
     },
     {
@@ -59,13 +59,13 @@
     },
     {
       "name": "gitquarry",
-      "downloads": 335,
+      "downloads": 339,
       "excludedDownloads": 28
     },
     {
       "name": "kagi-cli",
-      "downloads": 8632,
-      "excludedDownloads": 523
+      "downloads": 8664,
+      "excludedDownloads": 533
     },
     {
       "name": "keyflare-qmk-tool",
@@ -99,12 +99,12 @@
     },
     {
       "name": "moji",
-      "downloads": 302,
+      "downloads": 303,
       "excludedDownloads": 0
     },
     {
       "name": "mullgate",
-      "downloads": 287,
+      "downloads": 289,
       "excludedDownloads": 37
     },
     {
@@ -124,12 +124,12 @@
     },
     {
       "name": "pangram-cli",
-      "downloads": 298,
+      "downloads": 299,
       "excludedDownloads": 68
     },
     {
       "name": "protoncode",
-      "downloads": 54,
+      "downloads": 55,
       "excludedDownloads": 0
     },
     {
@@ -146,6 +146,11 @@
       "name": "react-grab-anywhere-injector",
       "downloads": 31,
       "excludedDownloads": 0
+    },
+    {
+      "name": "reddit-cli",
+      "downloads": 21,
+      "excludedDownloads": 10
     },
     {
       "name": "remind-me-later",
@@ -199,7 +204,7 @@
     },
     {
       "name": "veskforge",
-      "downloads": 441,
+      "downloads": 443,
       "excludedDownloads": 0
     },
     {
@@ -209,13 +214,13 @@
     },
     {
       "name": "vinted-cli",
-      "downloads": 251,
-      "excludedDownloads": 169
+      "downloads": 253,
+      "excludedDownloads": 170
     },
     {
       "name": "wallapop-cli",
-      "downloads": 864,
-      "excludedDownloads": 477
+      "downloads": 881,
+      "excludedDownloads": 480
     },
     {
       "name": "YAWN60",
