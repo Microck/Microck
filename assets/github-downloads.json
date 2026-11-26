@@ -1,15 +1,15 @@
 {
   "username": "Microck",
-  "checkedOn": "2026-11-25",
-  "total": 24920,
-  "stars": 2313,
+  "checkedOn": "2026-11-26",
+  "total": 25471,
+  "stars": 2621,
   "disabledRepositories": [
     "SecPlus-AI-Quizzer"
   ],
   "repositories": [
     {
       "name": "akron",
-      "downloads": 8227,
+      "downloads": 8370,
       "excludedDownloads": 200
     },
     {
@@ -29,7 +29,7 @@
     },
     {
       "name": "boilify",
-      "downloads": 1184,
+      "downloads": 1185,
       "excludedDownloads": 0
     },
     {
@@ -64,8 +64,8 @@
     },
     {
       "name": "kagi-cli",
-      "downloads": 8688,
-      "excludedDownloads": 544
+      "downloads": 8711,
+      "excludedDownloads": 552
     },
     {
       "name": "keyflare-qmk-tool",
@@ -94,7 +94,7 @@
     },
     {
       "name": "MindLocker",
-      "downloads": 11,
+      "downloads": 12,
       "excludedDownloads": 0
     },
     {
@@ -114,13 +114,13 @@
     },
     {
       "name": "opencode-studio",
-      "downloads": 42,
-      "excludedDownloads": 19
+      "downloads": 43,
+      "excludedDownloads": 20
     },
     {
       "name": "openvector",
-      "downloads": 78,
-      "excludedDownloads": 10
+      "downloads": 452,
+      "excludedDownloads": 36
     },
     {
       "name": "pangram-cli",
@@ -204,23 +204,23 @@
     },
     {
       "name": "veskforge",
-      "downloads": 446,
+      "downloads": 447,
       "excludedDownloads": 0
     },
     {
       "name": "veyoff",
-      "downloads": 81,
+      "downloads": 84,
       "excludedDownloads": 0
     },
     {
       "name": "vinted-cli",
-      "downloads": 258,
-      "excludedDownloads": 173
+      "downloads": 260,
+      "excludedDownloads": 174
     },
     {
       "name": "wallapop-cli",
-      "downloads": 891,
-      "excludedDownloads": 486
+      "downloads": 893,
+      "excludedDownloads": 488
     },
     {
       "name": "YAWN60",
