@@ -1,15 +1,15 @@
 {
   "username": "Microck",
-  "checkedOn": "2026-11-26",
-  "total": 25471,
-  "stars": 2621,
+  "checkedOn": "2026-11-27",
+  "total": 26487,
+  "stars": 2835,
   "disabledRepositories": [
     "SecPlus-AI-Quizzer"
   ],
   "repositories": [
     {
       "name": "akron",
-      "downloads": 8370,
+      "downloads": 8514,
       "excludedDownloads": 200
     },
     {
@@ -29,7 +29,7 @@
     },
     {
       "name": "boilify",
-      "downloads": 1185,
+      "downloads": 1186,
       "excludedDownloads": 0
     },
     {
@@ -64,8 +64,8 @@
     },
     {
       "name": "kagi-cli",
-      "downloads": 8711,
-      "excludedDownloads": 552
+      "downloads": 8735,
+      "excludedDownloads": 559
     },
     {
       "name": "keyflare-qmk-tool",
@@ -99,12 +99,12 @@
     },
     {
       "name": "moji",
-      "downloads": 304,
+      "downloads": 305,
       "excludedDownloads": 0
     },
     {
       "name": "mullgate",
-      "downloads": 289,
+      "downloads": 292,
       "excludedDownloads": 37
     },
     {
@@ -114,13 +114,13 @@
     },
     {
       "name": "opencode-studio",
-      "downloads": 43,
+      "downloads": 44,
       "excludedDownloads": 20
     },
     {
       "name": "openvector",
-      "downloads": 452,
-      "excludedDownloads": 36
+      "downloads": 1273,
+      "excludedDownloads": 67
     },
     {
       "name": "pangram-cli",
@@ -149,8 +149,8 @@
     },
     {
       "name": "reddit-cli",
-      "downloads": 29,
-      "excludedDownloads": 16
+      "downloads": 31,
+      "excludedDownloads": 18
     },
     {
       "name": "remind-me-later",
@@ -199,7 +199,7 @@
     },
     {
       "name": "vapora",
-      "downloads": 80,
+      "downloads": 85,
       "excludedDownloads": 10
     },
     {
@@ -214,13 +214,13 @@
     },
     {
       "name": "vinted-cli",
-      "downloads": 260,
-      "excludedDownloads": 174
+      "downloads": 262,
+      "excludedDownloads": 176
     },
     {
       "name": "wallapop-cli",
-      "downloads": 893,
-      "excludedDownloads": 488
+      "downloads": 905,
+      "excludedDownloads": 498
     },
     {
       "name": "YAWN60",
