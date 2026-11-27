@@ -1,182 +1,182 @@
 {
   "username": "microck",
-  "through": "2026-11-25",
-  "total": 177472,
+  "through": "2026-11-26",
+  "total": 180604,
   "packages": [
     {
       "name": "@microck/canonfig",
       "start": "2026-08-20",
-      "downloads": 9151
+      "downloads": 9350
     },
     {
       "name": "@microck/moji",
       "start": "2026-07-10",
-      "downloads": 4490
+      "downloads": 4510
     },
     {
       "name": "@microck/pangram-cli",
       "start": "2026-08-27",
-      "downloads": 1355
+      "downloads": 1357
     },
     {
       "name": "@microck/pangram-cli-darwin-arm64",
       "start": "2026-08-27",
-      "downloads": 1360
+      "downloads": 1363
     },
     {
       "name": "@microck/pangram-cli-darwin-x64",
       "start": "2026-08-27",
-      "downloads": 1275
+      "downloads": 1278
     },
     {
       "name": "@microck/pangram-cli-linux-arm64",
       "start": "2026-08-27",
-      "downloads": 1386
+      "downloads": 1388
     },
     {
       "name": "@microck/pangram-cli-linux-x64",
       "start": "2026-08-27",
-      "downloads": 1467
+      "downloads": 1468
     },
     {
       "name": "@microck/pangram-cli-win32-x64",
       "start": "2026-08-27",
-      "downloads": 1302
+      "downloads": 1303
     },
     {
       "name": "@microck/raft",
       "start": "2026-10-07",
-      "downloads": 1883
+      "downloads": 1899
     },
     {
       "name": "@microck/reddit-cli",
       "start": "2026-11-24",
-      "downloads": 213
+      "downloads": 232
     },
     {
       "name": "@microck/revisor",
       "start": "2026-05-14",
-      "downloads": 1051
+      "downloads": 1052
     },
     {
       "name": "@microck/revisor-darwin-arm64",
       "start": "2026-05-14",
-      "downloads": 822
+      "downloads": 823
     },
     {
       "name": "@microck/revisor-darwin-x64",
       "start": "2026-05-14",
-      "downloads": 791
+      "downloads": 793
     },
     {
       "name": "@microck/revisor-linux-arm64",
       "start": "2026-05-14",
-      "downloads": 808
+      "downloads": 809
     },
     {
       "name": "@microck/revisor-linux-x64",
       "start": "2026-05-14",
-      "downloads": 881
+      "downloads": 882
     },
     {
       "name": "@microck/revisor-win32-arm64",
       "start": "2026-05-14",
-      "downloads": 839
+      "downloads": 840
     },
     {
       "name": "@microck/revisor-win32-x64",
       "start": "2026-05-14",
-      "downloads": 850
+      "downloads": 851
     },
     {
       "name": "@microck/sandbox-sdk-raft",
       "start": "2026-10-31",
-      "downloads": 278
+      "downloads": 279
     },
     {
       "name": "@microck/satelle",
       "start": "2026-08-07",
-      "downloads": 9319
+      "downloads": 9326
     },
     {
       "name": "@microck/satelle-darwin-arm64",
       "start": "2026-08-07",
-      "downloads": 7827
+      "downloads": 7832
     },
     {
       "name": "@microck/satelle-darwin-x64",
       "start": "2026-08-07",
-      "downloads": 7613
+      "downloads": 7618
     },
     {
       "name": "@microck/satelle-linux-arm64-gnu",
       "start": "2026-08-07",
-      "downloads": 8048
+      "downloads": 8056
     },
     {
       "name": "@microck/satelle-linux-x64-gnu",
       "start": "2026-08-07",
-      "downloads": 8378
+      "downloads": 8383
     },
     {
       "name": "@microck/satelle-win32-arm64-msvc",
       "start": "2026-08-07",
-      "downloads": 7515
+      "downloads": 7522
     },
     {
       "name": "@microck/satelle-win32-x64-msvc",
       "start": "2026-08-07",
-      "downloads": 7546
+      "downloads": 7552
     },
     {
       "name": "@microck/traccia",
       "start": "2026-07-02",
-      "downloads": 289
+      "downloads": 290
     },
     {
       "name": "@tuireel/core",
       "start": "2026-03-04",
-      "downloads": 194
+      "downloads": 195
     },
     {
       "name": "agy-p",
       "start": "2026-05-22",
-      "downloads": 290
+      "downloads": 292
     },
     {
       "name": "ambivalence",
       "start": "2026-10-18",
-      "downloads": 871
+      "downloads": 873
     },
     {
       "name": "camofox-browser-mcp",
       "start": "2026-02-23",
-      "downloads": 2811
+      "downloads": 2816
     },
     {
       "name": "chatgpt-webui-mcp",
       "start": "2026-02-24",
-      "downloads": 2376
+      "downloads": 2400
     },
     {
       "name": "codexport",
       "start": "2026-05-24",
-      "downloads": 5807
+      "downloads": 5808
     },
     {
       "name": "discord-selfbot-mcp",
       "start": "2026-01-04",
-      "downloads": 8739
+      "downloads": 8751
     },
     {
       "name": "elevenlabs-web-cli",
       "start": "2026-10-29",
-      "downloads": 629
+      "downloads": 631
     },
     {
       "name": "galleton",
       "start": "2026-10-15",
-      "downloads": 750
+      "downloads": 1170
     },
     {
       "name": "gitbanana",
@@ -191,62 +191,62 @@
     {
       "name": "kagi-cli",
       "start": "2026-03-16",
-      "downloads": 12961
+      "downloads": 12981
     },
     {
       "name": "md2pkt",
       "start": "2026-04-30",
-      "downloads": 830
+      "downloads": 831
     },
     {
       "name": "mullgate",
       "start": "2026-03-23",
-      "downloads": 2485
+      "downloads": 2487
     },
     {
       "name": "opencode-gitlab-multi-pat",
       "start": "2026-03-11",
-      "downloads": 230
+      "downloads": 231
     },
     {
       "name": "opencode-session-backup",
       "start": "2026-01-29",
-      "downloads": 1097
+      "downloads": 1100
     },
     {
       "name": "opencode-studio-server",
       "start": "2026-01-03",
-      "downloads": 21503
+      "downloads": 21519
     },
     {
       "name": "openvector",
       "start": "2026-11-07",
-      "downloads": 830
+      "downloads": 1136
     },
     {
       "name": "perplexity-webui-mcp",
       "start": "2026-02-07",
-      "downloads": 4048
+      "downloads": 4077
     },
     {
       "name": "satelle",
       "start": "2026-08-07",
-      "downloads": 8435
+      "downloads": 8442
     },
     {
       "name": "semrush-cli",
       "start": "2026-10-14",
-      "downloads": 5971
+      "downloads": 7725
     },
     {
       "name": "sincronizado",
       "start": "2026-01-31",
-      "downloads": 1347
+      "downloads": 1349
     },
     {
       "name": "suno-api-cli",
       "start": "2026-10-07",
-      "downloads": 3530
+      "downloads": 3709
     },
     {
       "name": "tuireel",
@@ -256,12 +256,12 @@
     {
       "name": "vinted-cli",
       "start": "2026-10-18",
-      "downloads": 822
+      "downloads": 825
     },
     {
       "name": "wallapop-cli",
       "start": "2026-09-17",
-      "downloads": 1933
+      "downloads": 1954
     }
   ]
 }
